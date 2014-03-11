@@ -24,7 +24,9 @@ Templates
 In the Maps directory I have three main templates:
 
 ASL-Base-17x20a-GeoMap-Blank-Template.hm
+
 ASL-Base-17x20b-GeoMap-Blank-Template.hm
+
 ASL-Base-GeoMap-Blank-Template.hm
 
 Usage
